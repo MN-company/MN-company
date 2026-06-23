@@ -1,5 +1,12 @@
 # Paolo Gobber
 
+[![Business Creation](https://img.shields.io/badge/H--Farm-Business%20Creation%20%26%20Entrepreneurship-111827?style=for-the-badge)](https://college.h-farm.com/)
+[![Python](https://img.shields.io/badge/Python-product%20prototyping-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-Android%20AI%20tools-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Supabase](https://img.shields.io/badge/Supabase-product%20backends-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
+[![Gemini](https://img.shields.io/badge/Gemini-AI%20workflows-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://ai.google.dev/)
+[![IELTS](https://img.shields.io/badge/English-IELTS%20C1-0A66C2?style=for-the-badge)](https://www.ielts.org/)
+
 **Business Creation and Entrepreneurship student building technical products around AI, automation, analytics, and digital strategy.**
 
 I study Business Creation and Entrepreneurship at H-Farm College and build
@@ -44,6 +51,19 @@ Android device.
   tools, accessibility overlays, and cross-device automation
 
 Repo: [Gemini AirBridge](https://github.com/MN-company/bluetooth-gemini-chat)
+
+### Mindset
+
+Internal AI-learning plugin that converts books into structured learning
+systems for agent workflows.
+
+- Parses EPUB/PDF sources into markdown, then distills them into dense,
+  personalized study material
+- Adds Socratic dialogue, a multi-perspective book club, spaced repetition,
+  dashboard tracking, user profile memory, and persistent character memory
+- Explores how AI agents can turn passive reading into an active learning loop
+
+Status: private/internal prototype
 
 ## Current focus
 
